@@ -18,7 +18,7 @@ Below ChatGPT and 1500 real restaurants were given 3 different emails templates 
 
 **ChatGPT correctly predicted the best and worst emails as if it were a human recieving a cold outbound email.**
 
-![alt text](https://github.com/clawson62/Cordial_Project/blob/main/chart1.jpg?raw=true)
+![alt text](https://github.com/clawson62/Cordial_Project/blob/main/chart1.png?raw=true)
 
 ### Understanding What Contributed to Response Rate
 
@@ -30,7 +30,7 @@ Below shows 4 features ChatGPT was asked to score each of the emails on:
 
 **Personalization had the greatest effect.**
 
-![alt text](https://github.com/clawson62/Cordial_Project/blob/main/chart2.jpg?raw=true)
+![alt text](https://github.com/clawson62/Cordial_Project/blob/main/chart2.png?raw=true)
 
 # Further Work
 
