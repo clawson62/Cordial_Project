@@ -1,4 +1,4 @@
-# Can ChatGPT be used for instant, reliable A|B testing? (Yes)
+# Can ChatGPT be used for instant, reliable A/B testing? (Yes)
 
 
 # Inspiration
@@ -44,7 +44,7 @@ Example: The **value proposition** of getting a better night's sleep on a qualit
 
 ## 2. Archetype 
 
-Theory: Generating customer archetype json objects for ChatGPT can guide an even more precises prediction of A|B testing results. I used a simple version of this in my experiment that lead to a much higher response rate.
+Theory: Generating customer archetype json objects for ChatGPT can guide an even more precises prediction of A/B testing results. I used a simple version of this in my experiment that lead to a much higher response rate.
 
 Examples (these can be fed directly to ChatGPT and it's response will be altered to act more like the archetype when deciding to respond or ignore):
 
@@ -142,9 +142,10 @@ Below I describe the steps that create the data in order to populate the **Resul
 ## 1. Generate Emails
 
 Each email was generated for the following purpose:
+
 0. Personalization focused
-2. More salesman-like
-3. The control - simple ask, no added content
+1. More salesman-like
+2. The control - simple ask, no added content
 
 
 ## 2. Email Scoring Mechanism
